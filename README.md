@@ -17,3 +17,5 @@ To make it simple the idea was that the dataset for this Kaggle competition was 
 2. Feature Engineering: We generate and select relevant features for model training.
 3. Model Training: We train machine learning models on the prepared data.
 4. Prediction and Submission: We make predictions on the test data and submit them for evaluation.
+
+<b>Disclaimer</b> - To run this notebook you would need proper access to competition data for LLM Science Exam
